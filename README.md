@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Amaru, I study Computer Science at DCU.
 
