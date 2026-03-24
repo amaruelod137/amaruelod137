@@ -4,6 +4,10 @@
 <p>:suspect:<em>3rd Year Computer Science student <a href="http://www.dcu.ie">Dublin City University</a>
 </em></p>
 
+[![LinkedIn: amaruelod](https://img.shields.io/badge/My-LinkedIn-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famaru-elod-frisancho%2F)](https://www.linkedin.com/in/amaru-elod-frisancho/)
+[![GitHub AmaruElod](https://img.shields.io/badge/Follow%20Me-grey?logo=github&link=https%3A%2F%2Fgithub.com%2Famaruelod137)](https://github.com/amaruelod137)
+
+
 I Recently moved to Kraków 🐲 and am continuing my studies remotely while looking for internship opportunities in data, analytics, or data-focused software roles 📊.
 
 💻My projects focus on:
