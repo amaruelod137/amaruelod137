@@ -29,3 +29,5 @@ const Előd = {
   },
 }
 ```
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RoZjdnemltYXpid2g0dzM5ZGhvcXhicGlyd3E0aHR2eWhwNjVmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rEZYH7OrmyY0w/giphy.gif" width="40"> <em><b>For professional or internship inquiries, feel free to reach out at:</b> amarue.frisancho@gmail.com :)</em>
