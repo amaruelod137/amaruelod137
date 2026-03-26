@@ -20,7 +20,7 @@ I Recently moved to Kraków 🐲 and am continuing my studies remotely while loo
 ```javascript
 const Előd = {
   languages: [Python, C, Java, SQL, HTML, CSS, JS],
-  tools: [React, Node, MySQL, Git, Jupyter Notebook, REST APIs],
+  tools: [React, Django, Node, MySQL, Git, Jupyter Notebook, REST APIs],
   interests: ["Data analysis", "Statistical modeling", "ML for pattern detection"],
   personal_hobbies: {
                         sports: "Ultimate Frisbee",
