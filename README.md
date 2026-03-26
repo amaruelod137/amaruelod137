@@ -1,7 +1,7 @@
 <h2> Hello there, I'm Előd! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp0MTRxZ2Fic2ZyeW5ud2d6NXhiY2VzcjZwYnk4dWxjbHVkOXZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L2Gr9DYDLbupVQw3PH/giphy.gif" width="50"></h2>
 
 
-<p>:suspect:<em>3rd Year Computer Science student <a href="http://www.dcu.ie">Dublin City University</a>
+<p>:suspect:<em>3rd Year Computer Science student at <a href="http://www.dcu.ie">Dublin City University</a>
 </em></p>
 
 [![LinkedIn: amaruelod](https://img.shields.io/badge/My-LinkedIn-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famaru-elod-frisancho%2F)](https://www.linkedin.com/in/amaru-elod-frisancho/)
